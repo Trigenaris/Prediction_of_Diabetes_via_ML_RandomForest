@@ -4,7 +4,7 @@
 
 ## Business Problem
 
-In this section we are planing to predict the diabetes by specific parameters and refered parameters are described as:
+In this section we are planning to predict diabetes by specific parameters and the referred parameters are described:
 
 ## Dataset Story
 
@@ -323,7 +323,7 @@ ______
     x = X.sample(1).values.tolist()
     
     model_disc.predict(pd.DataFrame(X))[0]
-    186.33951137202502
+    1
 
 ______
 
