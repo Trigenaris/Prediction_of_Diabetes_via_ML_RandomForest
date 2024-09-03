@@ -111,7 +111,7 @@ After checking the data frame, we need to define and separate columns as **categ
 
 To summarize and visualize the referred column we create two other functions called `cat_summary` and `num_summary`.
 
-For example, categorical column **League**:
+For example, categorical column **Outcome**:
 
 ############### Outcome ###############
 
@@ -123,8 +123,6 @@ Outcome | Outcome Nr | Ratio |
 ![__results___12_1](https://github.com/user-attachments/assets/19e5f312-30d1-4f92-b749-80749a624ad6)
 
 Another example is, the numerical column **Pregnancies**:
-
-############### Pregnancies ###############
 
 ############### Pregnancies ###############
 
